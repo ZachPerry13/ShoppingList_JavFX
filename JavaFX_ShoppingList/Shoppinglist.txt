@@ -1,0 +1,6 @@
+Last time shopping: 2022/03/26 11:20:53
+Items purchased: 
+      corn,       1.00  5,  0
+      meat,       1.00  1,  0
+      corn,       5.00  1,  0
+     juice,       2.00  1,  1
